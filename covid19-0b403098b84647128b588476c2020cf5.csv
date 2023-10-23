@@ -1,0 +1,2 @@
+date,state,city,place_type,confirmed,deaths,is_last,estimated_population,city_ibge_code,confirmed_per_100k_inhabitants,death_rate
+2021-10-02,RJ,Niterói,city,56023,2369,True,515317,3303302,10871.56061,0.0423
